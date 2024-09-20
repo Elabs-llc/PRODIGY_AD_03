@@ -30,9 +30,9 @@ This Stopwatch mobile application is built using Flutter and allows users to tra
 1. Clone the repository:
 
 ```bash
-Git clone https://github.com/your-username/stopwatch-app.git
+Git clone https://github.com/Elabs-llc/PRODIGY_AD_03.git
 
-Cd stopwatch-app
+Cd Pprodigy_ad_03
 
 ```
 
