@@ -53,7 +53,7 @@ class _StopWatchState extends State<StopWatch> {
   // start timer function
   void startTimer() {
     isStarted = true;
-    timer = Timer.periodic(const Duration(seconds: 1), (timer) {
+    timer = Timer.periodic(const Duration(milliseconds: 30), (timer) {
       int localSeconds = seconds + 1;
       int localMinutes = minutes;
       int localHours = hours;
